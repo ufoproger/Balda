@@ -3,7 +3,9 @@
 #include <fstream>
 #include <vector>
 #include <map>
+
 #include <glibmm.h>
+
 #include "mytypes.h"
 #include "cword.h"
 

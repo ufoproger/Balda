@@ -1,7 +1,9 @@
 #pragma once
 
 #include <vector>
-#include <gtkmm.h>
+
+#include <glibmm.h>
+
 #include "mytypes.h"
 
 class CWord
